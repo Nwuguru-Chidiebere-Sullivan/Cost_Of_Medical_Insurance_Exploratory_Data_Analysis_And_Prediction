@@ -1,5 +1,7 @@
 # [Cost_Of_Medical_Insurance_Exploratory_Data_Analysis_And_Predictions](https://github.com/Nwuguru-Chidiebere-Sullivan/Cost_Of_Medical_Insurance_Exploratory_Data_Analysis_And_Prediction/blob/main/Cost_of_Medical_Insurance_Prediction.ipynb)
 
+![](/cost_of_health_insurance.webp)
+
 **CONTEXT:**
 
 Health insurance is an essential safeguard against unexpected and unaffordable medical expenses, but policies can be pricey. You can spend thousands a year on premiums, and even with health insurance, you may face copayments, coinsurance and a deductible. The costs can add up, and could even be influenced by lots factors like the patient's location, lifestyle, etc.
